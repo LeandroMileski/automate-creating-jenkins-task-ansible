@@ -1,3 +1,12 @@
+<img width="1271" height="671" alt="image" src="https://github.com/user-attachments/assets/4c094407-0193-4c23-ba03-fa326a0233ec" />
+<img width="1673" height="812" alt="image" src="https://github.com/user-attachments/assets/d40547ea-fc9b-4216-b3d8-1469405bd56e" />
+
+
+<img width="1567" height="523" alt="image" src="https://github.com/user-attachments/assets/8e50c158-a787-4109-8b48-5d9e0ac6d1df" />
+<img width="1474" height="918" alt="image" src="https://github.com/user-attachments/assets/29208837-c194-4a3c-aa32-ee20041231c9" />
+
+
+
 # Automated Jenkins Provisioning with Ansible
 
 One command spins up a fully configured, build-ready Jenkins server on AWS — network, security, and tooling included.
